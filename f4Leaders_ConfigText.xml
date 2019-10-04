@@ -160,17 +160,17 @@
 			<Text>So fast!</Text>
 		</Row>
 
-		<Row Tag="LOC_TRAIT_CIVILIZATION_EPIC_QUESTS" Language="en_US">
-			<Text>Cat like reflexes</Text>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EPIC_QUESTS_NAME" Language="en_US">
+			<Text>Epic Quests</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_EPIC_QUESTS_DESCRIPTION" Language="en_US">
-			<Text>So fast!</Text>
+			<Text>When you capture a Barbarian Outpost, receive a Tribal Village reward in addition to the usual [ICON_Gold] Gold. Pay half the usual cost to levy city-state units.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_LIBERTAS_IMPERIO_NAME" Language="en_US">
-			<Text>Cat like reflexes</Text>
+			<Text>Libertas Imperio</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_LIBERTAS_IMPERIO_DESCRIPTION" Language="en_US">
-			<Text>So fast!</Text>
+			<Text>Culture Bomb adjacent tiles when completing an Encampment or Fort inside friendly territory. One Military policy slot in the current government is converted to a Wildcard slot.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ENLIGHTENMENT_UNDERGROUND_NAME" Language="en_US">
 			<Text>Cat like reflexes</Text>
