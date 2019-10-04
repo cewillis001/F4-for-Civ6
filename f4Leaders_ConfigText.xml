@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>The Felines</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_MINUTE_MEN_NAME" Language="en_US">
+			<Text>The Commonwealth Minutemen</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME" Language="en_US">
+			<Text>The Brotherhood of Steel</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INSTITUTE_NAME" Language="en_US">
+			<Text>The Institute</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAILROAD_NAME" Language="en_US">
+			<Text>The Railroad</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_CHILDREN_OF_ATOM_NAME" Language="en_US">
+			<Text>The Children of Atom</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GUNNERS_NAME" Language="en_US">
+			<Text>The Gunners</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FORGED_NAME" Language="en_US">
+			<Text>The Forged</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARAVANERS_NAME" Language="en_US">
+			<Text>Caravaners</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_RUST_DEVILS_NAME" Language="en_US">
+			<Text>The Rust Devils</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MECHANIST_ROBOTS_NAME" Language="en_US">
+			<Text>The Mechanist's Robots</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>The Majestic Felines</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_MINUTE_MEN_DESCRIPTION" Language="en_US">
+			<Text>Alliance of civilian militias</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_DESCRIPTION" Language="en_US">
+			<Text>Empire of the Brotherhood of Steel</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INSTITUTE_DESCRIPTION" Language="en_US">
+			<Text>Institute Territories</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAILROAD_DESCRIPTION" Language="en_US">
+			<Text>Railroad Network</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_CHILDREN_OF_ATOM_DESCRIPTION" Language="en_US">
+			<Text>The Church of the Children of Atom</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FORGED_DESCRIPTION" Language="en_US">
+			<Text>Forged Raider Gang</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GUNNERS_DESCRIPTION" Language="en_US">
+			<Text>Gunner Chain of Command</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARAVANERS_DESCRIPTION" Language="en_US">
+			<Text>Caravaners of the Commonwealth</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_RUST_DEVILS_DESCRIPTION" Language="en_US">
+			<Text>Rust Devils Raider Gang</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MECHANIST_ROBOTS_DESCRIPTION" Language="en_US">
+			<Text>Robotic Allies of The Mechanist</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FELINE_ADJECTIVE" Language="en_US">
+			<Text>Feline</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_MINUTE_MEN_ADJECTIVE" Language="en_US">
+			<Text>Minutemen</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_ADJECTIVE" Language="en_US">
+			<Text>Brotherhood</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INSTITUTE_ADJECTIVE" Language="en_US">
+			<Text>Institute</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAILROAD_ADJECTIVE" Language="en_US">
+			<Text>Railroad</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_CHILDREN_OF_ATOM_ADJECTIVE" Language="en_US">
+			<Text>Glowing</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FORGED_ADJECTIVE" Language="en_US">
+			<Text>Forged</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GUNNERS_ADJECTIVE" Language="en_US">
+			<Text>Gunner</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARAVANERS_ADJECTIVE" Language="en_US">
+			<Text>Caravaner</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_RUST_DEVILS_ADJECTIVE" Language="en_US">
+			<Text>Rust Devil</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MECHANIST_ROBOTS_ADJECTIVE" Language="en_US">
+			<Text>Robotic</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Jasper Kitty</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_SOLE_SURVIVOR_NAME" Language="en_US">
+			<Text>The Vault Dweller</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_PRESTON_GARVEY_NAME" Language="en_US">
+			<Text>Preston Garvey</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ARTHUR_MAXSON_NAME" Language="en_US">
+			<Text>Arthur Maxson</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FATHER_NAME" Language="en_US">
+			<Text>Father</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_DESDEMONA_NAME" Language="en_US">
+			<Text>Desdemona</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_MOTHER_ISOLDE_NAME" Language="en_US">
+			<Text>Mother Isolde</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SLAG_NAME" Language="en_US">
+			<Text>Slag</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CAPTAIN_WES_NAME" Language="en_US">
+			<Text>Captain Wes</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_KESSLER_NAME" Language="en_US">
+			<Text>Kessler</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_IVEY_NAME" Language="en_US">
+			<Text>Ivey</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_THE_MECHANIST_NAME" Language="en_US">
+			<Text>The Mechanist</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EPIC_QUESTS" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EPIC_QUESTS_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LIBERTAS_IMPERIO_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LIBERTAS_IMPERIO_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENLIGHTENMENT_UNDERGROUND_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ENLIGHTENMENT_UNDERGROUND_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_AXE_TO_GRIND_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_AXE_TO_GRIND_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+		
+		
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_LITTER_BOX_NAME" Language="en_US">
+			<Text>Litter Box</Text>
+		</Row>
+		
+		<Row Tag="LOC_BUILDING_LITTER_BOX_DESCRIPTION" Language="en_US">
+			<Text>The litter box is a unique building that only Felines get.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
