@@ -136,8 +136,9 @@
 		</Row>
     
     <!-- Leader Dialog -->
-		<!-- The diplomacy table has entries like LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_$(LEADER)_$(MOOD) -->
+		<!-- The diplomacy table has entries like LOC_DIPLO_FIRST_MEET_$(LEADER)_$(MOOD) -->
 		<!-- I am pretty sure $(LEADER) is like "LEADER_JASPER_KITTY", so these should be like "F4_LEADER_SOLE_SURVIVOR" -->
+		<!-- There is a default of LOC_DIPLO_FIRST_MEET_ANY_ANY defined so we are probably good to leave these for updates-->
     <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JASPER_KITTY_ANY" Language="en_US">
       <Text>Mrow! I am the mighty Jasper Kitty.  Pet me.</Text>
     </Row>
