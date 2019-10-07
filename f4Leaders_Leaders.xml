@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Types>
-		<Row Type="F4_LEADER_" Kind="KIND_LEADER" />
+		<Row Type="LEADER_JASPER_KITTY" Kind="KIND_LEADER" />
 
 		<Row Type="F4_LEADER_SOLE_SURVIVOR" Kind="KIND_LEADER" />
 		

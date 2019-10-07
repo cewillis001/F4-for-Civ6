@@ -136,6 +136,8 @@
 		</Row>
     
     <!-- Leader Dialog -->
+		<!-- The diplomacy table has entries like LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_$(LEADER)_$(MOOD) -->
+		<!-- I am pretty sure $(LEADER) is like "LEADER_JASPER_KITTY", so these should be like "F4_LEADER_SOLE_SURVIVOR" -->
     <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JASPER_KITTY_ANY" Language="en_US">
       <Text>Mrow! I am the mighty Jasper Kitty.  Pet me.</Text>
     </Row>
@@ -148,40 +150,40 @@
       <Text>Let me rub my face on all of your stuff so that it will be mine.</Text>
     </Row>
 
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SOLE_SURVIVOR_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_SOLE_SURVIVOR_ANY" Language="en_US">
 			<Text>Yeah, sure.</Text>
 		</Row>
 
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PRESTON_GARVEY_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_PRESTON_GARVEY_ANY" Language="en_US">
 			<Text>I agree.</Text>
 		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ARTHUR_MAXSON_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_ARTHUR_MAXSON_ANY" Language="en_US">
 			<Text>Acceptable.</Text>
 		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATHER_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_FATHER_ANY" Language="en_US">
 			<Text>Yes, good.</Text>
 		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_DESDEMONA_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_DESDEMONA_ANY" Language="en_US">
 			<Text>I can't say no to that.</Text>
 		</Row>
 
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MOTHER_ISOLDE_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_MOTHER_ISOLDE_ANY" Language="en_US">
 			<Text>You are kind to offer.</Text>
 		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SLAG_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_SLAG_ANY" Language="en_US">
 			<Text>Ha! I like your style.</Text>
 		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
 			<Text>Affirmative.</Text>
 		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KESSLER_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_KESSLER_ANY" Language="en_US">
 			<Text>All right, thanks.</Text>
 		</Row>
 
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_IVEY_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_IVEY_ANY" Language="en_US">
 			<Text>Works for me.</Text>
 		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_THE_MECHANIST_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_THE_MECHANIST_ANY" Language="en_US">
 			<Text>Thank you, citizen!</Text>
 		</Row>
 	</LocalizedText>
