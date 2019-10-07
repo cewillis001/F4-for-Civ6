@@ -97,6 +97,43 @@
 		<Row Tag="LOC_LEADER_JASPER_KITTY_QUOTE" Language="en_US">
 			<Text>Meow.</Text>
 		</Row>
+
+		<Row Tag="LOC_LEADER_SOLE_SURVIVOR_QUOTE" Language="en_US">
+			<Text>I'm calling it right here. This world can officially bite my ass.</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_PRESTON_GARVEY_QUOTE" Language="en_US">
+			<Text>Protect the people at a minute's notice.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ARTHUR_MAXSON_QUOTE" Language="en_US">
+			<Text>In the end, we will be saving humankind from its worst enemy... itself.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FATHER_QUOTE" Language="en_US">
+			<Text>The Institute... It's important. It really is humanity's best hope for the future, no matter what those above ground might think of us.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_DESDEMONA_QUOTE" Language="en_US">
+			<Text>I have a question. The only question that matters. Would you risk your life for your fellow man? Even if that man is a synth?</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_MOTHER_ISOLDE_QUOTE" Language="en_US">
+			<Text>Atom reached out and touched this world, bringing his Glow to us. It remains to this day, a reminder of his promise. Infinite worlds through divisions.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SLAG_QUOTE" Language="en_US">
+			<Text>I'm Slag, and we are the Forged. And you, stranger - you're somebody with some guts. I like that.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CAPTAIN_WES_QUOTE" Language="en_US">
+			<Text>Courser's on the second floor. Kill on sight.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_KESSLER_QUOTE" Language="en_US">
+			<Text>So there's only two types of people coming through here, Caravans and Raiders. Which are you?</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_IVEY_QUOTE" Language="en_US">
+			<Text>(Ignores you, takes apart a robot)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_THE_MECHANIST_QUOTE" Language="en_US">
+			<Text>Attention, people of the Commonwealth! I, the Mechanist, have come to bring about an age of peace.</Text>
+		</Row>
     
     <!-- Leader Dialog -->
     <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JASPER_KITTY_ANY" Language="en_US">

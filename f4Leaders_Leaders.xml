@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Types>
-		<Row Type="LEADER_JASPER_KITTY" Kind="KIND_LEADER" />
+		<Row Type="F4_LEADER_" Kind="KIND_LEADER" />
+
+		<Row Type="F4_LEADER_SOLE_SURVIVOR" Kind="KIND_LEADER" />
+		
+		<Row Type="F4_LEADER_PRESTON_GARVEY" Kind="KIND_LEADER" />
+		<Row Type="F4_LEADER_ARTHUR_MAXSON" Kind="KIND_LEADER" />
+		<Row Type="F4_LEADER_FATHER" Kind="KIND_LEADER" />
+		<Row Type="F4_LEADER_DESDEMONA" Kind="KIND_LEADER" />
+
+		<Row Type="F4_LEADER_MOTHER_ISOLDE" Kind="KIND_LEADER" />
+		<Row Type="F4_LEADER_SLAG" Kind="KIND_LEADER" />
+		<Row Type="F4_LEADER_CAPTAIN_WES" Kind="KIND_LEADER" />
+		<Row Type="F4_LEADER_KESSLER" Kind="KIND_LEADER" />
+
+		<Row Type="F4_LEADER_IVEY" Kind="KIND_LEADER" />
+		<Row Type="F4_LEADER_THE_MECHANIST" Kind="KIND_LEADER" />
 	</Types>
 
 	<Leaders>
@@ -10,10 +25,84 @@
 			<Name>LOC_LEADER_JASPER_KITTY_NAME</Name>
 			<InheritFrom>LEADER_DEFAULT</InheritFrom>
 		</Row>
+
+		<Row>
+			<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
+			<Name>LOC_LEADER_SOLE_SURVIVOR_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+
+		<Row>
+			<LeaderType>F4_LEADER_PRESTON_GARVEY</LeaderType>
+			<Name>LOC_LEADER_PRESTON_GARVEY_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+		<Row>
+			<LeaderType>F4_LEADER_ARTHUR_MAXSON</LeaderType>
+			<Name>LOC_LEADER_ARTHUR_MAXSON_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+		<Row>
+			<LeaderType>F4_LEADER_FATHER</LeaderType>
+			<Name>LOC_LEADER_FATHER_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+		<Row>
+			<LeaderType>F4_LEADER_DESDEMONA</LeaderType>
+			<Name>LOC_LEADER_DESDEMONA_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+
+		<Row>
+			<LeaderType>F4_LEADER_MOTHER_ISOLDE</LeaderType>
+			<Name>LOC_LEADER_MOTHER_ISOLDE_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+		<Row>
+			<LeaderType>F4_LEADER_SLAG</LeaderType>
+			<Name>LOC_LEADER_SLAG_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+		<Row>
+			<LeaderType>F4_LEADER_CAPTAIN_WES</LeaderType>
+			<Name>LOC_LEADER_CAPTAIN_WES_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+		<Row>
+			<LeaderType>F4_LEADER_KESSLER</LeaderType>
+			<Name>LOC_LEADER_KESSLER_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+
+		<Row>
+			<LeaderType>F4_LEADER_IVEY</LeaderType>
+			<Name>LOC_LEADER_IVEY_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+		<Row>
+			<LeaderType>F4_LEADER_THE_MECHANIST</LeaderType>
+			<Name>LOC_LEADER_THE_MECHANIST_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
 	</Leaders>
 
 	<LeaderQuotes>
-		<Row LeaderType="LEADER_JASPER_KITTY" Quote="LOC_LEADER_JASPER_KITTY_QUOTE"/>
+		<Row LeaderType="F4_LEADER_JASPER_KITTY" Quote="LOC_LEADER_JASPER_KITTY_QUOTE"/>
+		
+		<Row LeaderType="F4_LEADER_SOLE_SURVIVOR" Quote="LOC_LEADER_SOLE_SURVIVOR_QUOTE"/>
+
+		<Row LeaderType="F4_LEADER_PRESTON_GARVEY" Quote="LOC_LEADER_PRESTON_GARVEY_QUOTE"/>
+		<Row LeaderType="F4_LEADER_ARTHUR_MAXSON" Quote="LOC_LEADER_ARTHUR_MAXSON_QUOTE"/>
+		<Row LeaderType="F4_LEADER_FATHER" Quote="LOC_LEADER_FATHER_QUOTE"/>
+		<Row LeaderType="F4_LEADER_DESDEMONA" Quote="LOC_LEADER_DESDEMONA_QUOTE"/>
+
+		<Row LeaderType="F4_LEADER_MOTHER_ISOLDE" Quote="LOC_LEADER_MOTHER_ISOLDE_QUOTE"/>
+		<Row LeaderType="F4_LEADER_SLAG" Quote="LOC_LEADER_SLAG_QUOTE"/>
+		<Row LeaderType="F4_LEADER_CAPTAIN_WES" Quote="LOC_LEADER_CAPTAIN_WES_QUOTE"/>
+		<Row LeaderType="F4_LEADER_KESSLER" Quote="LOC_LEADER_KESSLER_QUOTE"/>
+
+		<Row LeaderType="F4_LEADER_IVEY" Quote="LOC_LEADER_IVEY_QUOTE"/>
+		<Row LeaderType="F4_LEADER_THE_MECHANIST" Quote="LOC_LEADER_THE_MECHANIST_QUOTE"/>
 	</LeaderQuotes>
 	
 </GameData>
