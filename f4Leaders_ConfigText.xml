@@ -5,36 +5,36 @@
 			<Text>The Felines</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_MINUTE_MEN_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_NAME" Language="en_US">
 			<Text>The Commonwealth Minutemen</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME" Language="en_US">
 			<Text>The Brotherhood of Steel</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_INSTITUTE_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_NAME" Language="en_US">
 			<Text>The Institute</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_RAILROAD_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_NAME" Language="en_US">
 			<Text>The Railroad</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_CHILDREN_OF_ATOM_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_NAME" Language="en_US">
 			<Text>The Children of Atom</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_GUNNERS_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_NAME" Language="en_US">
 			<Text>The Gunners</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_FORGED_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_NAME" Language="en_US">
 			<Text>The Forged</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_CARAVANERS_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_NAME" Language="en_US">
 			<Text>Caravaners</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_RUST_DEVILS_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_NAME" Language="en_US">
 			<Text>The Rust Devils</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_MECHANIST_ROBOTS_NAME" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_NAME" Language="en_US">
 			<Text>The Mechanist's Robots</Text>
 		</Row>
 		
@@ -42,36 +42,36 @@
 			<Text>The Majestic Felines</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_MINUTE_MEN_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_DESCRIPTION" Language="en_US">
 			<Text>Alliance of civilian militias</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_DESCRIPTION" Language="en_US">
 			<Text>Empire of the Brotherhood of Steel</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_INSTITUTE_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_DESCRIPTION" Language="en_US">
 			<Text>Institute Territories</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_RAILROAD_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_DESCRIPTION" Language="en_US">
 			<Text>Railroad Network</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_CHILDREN_OF_ATOM_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_DESCRIPTION" Language="en_US">
 			<Text>The Church of the Children of Atom</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_FORGED_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_DESCRIPTION" Language="en_US">
 			<Text>Forged Raider Gang</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_GUNNERS_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_DESCRIPTION" Language="en_US">
 			<Text>Gunner Chain of Command</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_CARAVANERS_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_DESCRIPTION" Language="en_US">
 			<Text>Caravaners of the Commonwealth</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_RUST_DEVILS_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_DESCRIPTION" Language="en_US">
 			<Text>Rust Devils Raider Gang</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_MECHANIST_ROBOTS_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_DESCRIPTION" Language="en_US">
 			<Text>Robotic Allies of The Mechanist</Text>
 		</Row>
 
@@ -79,36 +79,36 @@
 			<Text>Feline</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_MINUTE_MEN_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_ADJECTIVE" Language="en_US">
 			<Text>Minutemen</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_ADJECTIVE" Language="en_US">
 			<Text>Brotherhood</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_INSTITUTE_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_ADJECTIVE" Language="en_US">
 			<Text>Institute</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_RAILROAD_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_ADJECTIVE" Language="en_US">
 			<Text>Railroad</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_CHILDREN_OF_ATOM_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_ADJECTIVE" Language="en_US">
 			<Text>Glowing</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_FORGED_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_ADJECTIVE" Language="en_US">
 			<Text>Forged</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_GUNNERS_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_ADJECTIVE" Language="en_US">
 			<Text>Gunner</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_CARAVANERS_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_ADJECTIVE" Language="en_US">
 			<Text>Caravaner</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_RUST_DEVILS_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_ADJECTIVE" Language="en_US">
 			<Text>Rust Devil</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_MECHANIST_ROBOTS_ADJECTIVE" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_ADJECTIVE" Language="en_US">
 			<Text>Robotic</Text>
 		</Row>
 		

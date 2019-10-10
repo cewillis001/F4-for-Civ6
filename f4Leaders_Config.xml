@@ -22,7 +22,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_MINUTE_MEN</CivilizationType>
 		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_MINUTE_MEN_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_MINUTE_MEN_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_MINUTE_MEN</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderIcon>
@@ -38,7 +38,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationType>
 		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderIcon>
@@ -54,7 +54,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_INSTITUTE</CivilizationType>
 		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_INSTITUTE_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_INSTITUTE_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_INSTITUTE</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderIcon>
@@ -70,7 +70,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_RAILROAD</CivilizationType>
 		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_RAILROAD_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_RAILROAD_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_RAILROAD</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderIcon>
@@ -87,7 +87,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_MINUTE_MEN</CivilizationType>
 		<LeaderType>F4_LEADER_PRESTON_GARVEY</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_MINUTE_MEN_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_MINUTE_MEN_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_MINUTE_MEN</CivilizationIcon>
 		<LeaderName>LOC_LEADER_PRESTON_GARVEY_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_PRESTON_GARVEY</LeaderIcon>
@@ -103,7 +103,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationType>
 		<LeaderType>F4_LEADER_ARTHUR_MAXSON</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationIcon>
 		<LeaderName>LOC_LEADER_ARTHUR_MAXSON_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_ARTHUR_MAXSON</LeaderIcon>
@@ -119,7 +119,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_INSTITUTE</CivilizationType>
 		<LeaderType>F4_LEADER_FATHER</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_INSTITUTE_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_INSTITUTE_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_INSTITUTE</CivilizationIcon>
 		<LeaderName>LOC_LEADER_FATHER_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_FATHER</LeaderIcon>
@@ -135,7 +135,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_RAILROAD</CivilizationType>
 		<LeaderType>F4_LEADER_DESDEMONA</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_RAILROAD_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_RAILROAD_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_RAILROAD</CivilizationIcon>
 		<LeaderName>LOC_LEADER_DESDEMONA_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_DESDEMONA</LeaderIcon>
@@ -152,7 +152,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_CHILDREN_OF_ATOM</CivilizationType>
 		<LeaderType>F4_LEADER_MOTHER_ISOLDE</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_CHILDREN_OF_ATOM_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_CHILDREN_OF_ATOM</CivilizationIcon>
 		<LeaderName>LOC_LEADER_MOTHER_ISOLDE_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_MOTHER_ISOLDE</LeaderIcon>
@@ -168,7 +168,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_GUNNERS</CivilizationType>
 		<LeaderType>F4_LEADER_CAPTAIN_WES</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_GUNNERS_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_GUNNERS_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_GUNNERS</CivilizationIcon>
 		<LeaderName>LOC_LEADER_CAPTAIN_WES_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_CAPTAIN_WES</LeaderIcon>
@@ -184,7 +184,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_FORGED</CivilizationType>
 		<LeaderType>F4_LEADER_SLAG</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_FORGED_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_FORGED_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_FORGED</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SLAG_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_SLAG</LeaderIcon>
@@ -200,7 +200,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_CARAVANERS</CivilizationType>
 		<LeaderType>F4_LEADER_KESSLER</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_CARAVANERS_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_CARAVANERS_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_CARAVANERS</CivilizationIcon>
 		<LeaderName>LOC_LEADER_KESSLER_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_KESSLER</LeaderIcon>
@@ -217,7 +217,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_RUST_DEVILS</CivilizationType>
 		<LeaderType>F4_LEADER_IVEY</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_RUST_DEVILS_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_RUST_DEVILS_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_RUST_DEVILS</CivilizationIcon>
 		<LeaderName>LOC_LEADER_IVEY_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_IVEY</LeaderIcon>
@@ -233,7 +233,7 @@
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_MECHANIST_ROBOTS</CivilizationType>
 		<LeaderType>F4_LEADER_THE_MECHANIST</LeaderType>
-		<CivilizationName>LOC_CIVILIZATION_MECHANIST_ROBOTS_NAME</CivilizationName>
+		<CivilizationName>LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_MECHANIST_ROBOTS</CivilizationIcon>
 		<LeaderName>LOC_LEADER_THE_MECHANIST_NAME</LeaderName>
 		<LeaderIcon>ICON_F4_LEADER_THE_MECHANIST</LeaderIcon>
