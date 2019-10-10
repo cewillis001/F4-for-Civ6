@@ -189,7 +189,7 @@
 			<Text>Atomic Hymns</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ATOMIC_HYMNS_DESCRIPTION" Language="en_US">
-			<Text>>City Centers gain +1 [ICON_FAITH] Faith and +1 [ICON_FOOD] for every adjacent Desert and Desert Hills tiles. Mines receive -1 [ICON_PRODUCTION] Production and +4 [ICON_GOLD] Gold. May purchase Commercial Hub district buildings with [ICON_Faith] Faith. -30% [ICON_PRODUCTION] Production toward constructing buildings or training units.</Text>
+			<Text>City Centers gain +1 [ICON_FAITH] Faith and +1 [ICON_FOOD] for every adjacent Desert and Desert Hills tiles. Mines receive -1 [ICON_PRODUCTION] Production and +4 [ICON_GOLD] Gold. May purchase Commercial Hub district buildings with [ICON_Faith] Faith. -30% [ICON_PRODUCTION] Production toward constructing buildings or training units.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_THE_GUNNER_SONG_NAME" Language="en_US">
 			<Text>The Gunner Song</Text>
