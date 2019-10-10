@@ -21,7 +21,7 @@
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_MINUTE_MEN</CivilizationType>
-		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
+		<LeaderType>F4_LEADER_SOLE_SURVIVOR_MINUTE_MEN</LeaderType>
 		<CivilizationName>LOC_F4_CIVILIZATION_MINUTE_MEN_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_MINUTE_MEN</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
@@ -37,7 +37,7 @@
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationType>
-		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
+		<LeaderType>F4_LEADER_SOLE_SURVIVOR_BROTHERHOOD_OF_STEEL</LeaderType>
 		<CivilizationName>LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
@@ -53,7 +53,7 @@
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_INSTITUTE</CivilizationType>
-		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
+		<LeaderType>F4_LEADER_SOLE_SURVIVOR_INSTITUTE</LeaderType>
 		<CivilizationName>LOC_F4_CIVILIZATION_INSTITUTE_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_INSTITUTE</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
@@ -69,7 +69,7 @@
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
 		<CivilizationType>F4_CIVILIZATION_RAILROAD</CivilizationType>
-		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
+		<LeaderType>F4_LEADER_SOLE_SURVIVOR_RAILROAD</LeaderType>
 		<CivilizationName>LOC_F4_CIVILIZATION_RAILROAD_NAME</CivilizationName>
 		<CivilizationIcon>ICON_F4_CIVILIZATION_RAILROAD</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
