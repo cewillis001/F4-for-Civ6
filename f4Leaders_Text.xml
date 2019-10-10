@@ -24,7 +24,7 @@
 			<Text>The felines have a rich history, but are too lazy to write about it.</Text>
 		</Row>
 
-		<!-- Civlization Citizen Names -->
+		<!-- CIVILIZATION Citizen Names -->
 		<Row Tag="LOC_CITIZEN_FELINE_MALE_1" Language="en_US">
 			<Text>Mittens</Text>
 		</Row>
@@ -344,353 +344,353 @@
 
 
 		<!-- Civilization City Names-->
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_1" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_2" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_3" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_4" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_5" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_6" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_7" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_8" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_9" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_10" Language="en_US">
+		<Row Tag="LOC_CIVILIZATION_FELINE_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MINUTE_MEN_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
 
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_BROTHERHOOD_OF_STEEL_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
 
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_INSTITUTE_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
 
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RAILROAD_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
 
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CHILDREN_OF_ATOM_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
 
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_FORGED_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_FORGED_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
 
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_GUNNERS_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
 
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_CARAVANERS_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
 
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_RUST_DEVILS_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
 
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_1" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_2" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_2" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_3" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_3" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_4" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_4" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_5" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_5" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_6" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_6" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_7" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_7" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_8" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_8" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_9" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_9" Language="en_US">
 			<Text>City</Text>
 		</Row>
-		<Row Tag="LOC_F4_CIVLIZATION_MECHANIST_ROBOTS_CITY_10" Language="en_US">
+		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_CITY_10" Language="en_US">
 			<Text>City</Text>
 		</Row>
 
