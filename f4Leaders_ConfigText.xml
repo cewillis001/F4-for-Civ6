@@ -117,7 +117,7 @@
 		</Row>
 
 		<Row Tag="LOC_LEADER_SOLE_SURVIVOR_NAME" Language="en_US">
-			<Text>The Vault Dweller</Text>
+			<Text>The Sole Survivor</Text>
 		</Row>
 
 		<Row Tag="LOC_LEADER_PRESTON_GARVEY_NAME" Language="en_US">
