@@ -53,6 +53,296 @@
 			<Text>Sally Soft Paws</Text>
 		</Row>
 
+		<Row Tag="LOC_CITIZEN_MINUTE_MEN_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MINUTE_MEN_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MINUTE_MEN_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MINUTE_MEN_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MINUTE_MEN_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MINUTE_MEN_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MINUTE_MEN_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MINUTE_MEN_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MINUTE_MEN_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_BROTHERHOOD_OF_STEEL_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BROTHERHOOD_OF_STEEL_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BROTHERHOOD_OF_STEEL_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BROTHERHOOD_OF_STEEL_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BROTHERHOOD_OF_STEEL_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BROTHERHOOD_OF_STEEL_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BROTHERHOOD_OF_STEEL_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BROTHERHOOD_OF_STEEL_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BROTHERHOOD_OF_STEEL_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_INSTITUTE_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_INSTITUTE_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_INSTITUTE_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_INSTITUTE_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_INSTITUTE_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_INSTITUTE_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_INSTITUTE_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_INSTITUTE_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_INSTITUTE_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_RAILROAD_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RAILROAD_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RAILROAD_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RAILROAD_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RAILROAD_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RAILROAD_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RAILROAD_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RAILROAD_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RAILROAD_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_CHILDREN_OF_ATOM_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHILDREN_OF_ATOM_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHILDREN_OF_ATOM_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHILDREN_OF_ATOM_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHILDREN_OF_ATOM_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHILDREN_OF_ATOM_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHILDREN_OF_ATOM_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHILDREN_OF_ATOM_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHILDREN_OF_ATOM_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_FORGED_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORGED_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORGED_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORGED_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORGED_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORGED_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORGED_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORGED_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORGED_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_GUNNERS_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GUNNERS_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GUNNERS_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GUNNERS_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GUNNERS_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GUNNERS_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GUNNERS_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GUNNERS_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GUNNERS_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_CARAVANERS_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CARAVANERS_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CARAVANERS_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CARAVANERS_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CARAVANERS_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CARAVANERS_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CARAVANERS_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CARAVANERS_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CARAVANERS_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_RUST_DEVILS_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RUST_DEVILS_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RUST_DEVILS_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RUST_DEVILS_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RUST_DEVILS_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RUST_DEVILS_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RUST_DEVILS_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RUST_DEVILS_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RUST_DEVILS_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_MECHANIST_ROBOTS_MALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MECHANIST_ROBOTS_MALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MECHANIST_ROBOTS_MALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MECHANIST_ROBOTS_MALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MECHANIST_ROBOTS_FEMALE_1" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MECHANIST_ROBOTS_FEMALE_2" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MECHANIST_ROBOTS_FEMALE_3" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MECHANIST_ROBOTS_FEMALE_4" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MECHANIST_ROBOTS_FEMALE_5" Language="en_US">
+			<Text>Sally Soft Paws</Text>
+		</Row>
+
+
 		<!-- Civilization City Names-->
 		<Row Tag="LOC_CIVLIZATION_FELINE_CITY_1" Language="en_US">
 			<Text>Pawtimore</Text>
