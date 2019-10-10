@@ -23,15 +23,15 @@
 		<CivilizationType>F4_CIVILIZATION_MINUTE_MEN</CivilizationType>
 		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_MINUTE_MEN_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_MINUTE_MEN</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_MINUTE_MEN</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_SOLE_SURVIVOR</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_EPIC_QUESTS_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_EPIC_QUESTS_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_MINUTE_MEN</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_MINUTE_MEN</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_PRE_WAR_RELIC_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_PRE_WAR_RELIC_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SOLE_SURVIVOR_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -39,15 +39,15 @@
 		<CivilizationType>F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationType>
 		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_SOLE_SURVIVOR</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_LIBERTAS_IMPERIO_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_LIBERTAS_IMPERIO_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_PRE_WAR_RELIC_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_PRE_WAR_RELIC_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SOLE_SURVIVOR_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -55,15 +55,15 @@
 		<CivilizationType>F4_CIVILIZATION_INSTITUTE</CivilizationType>
 		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_INSTITUTE_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_INSTITUTE</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_INSTITUTE</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_SOLE_SURVIVOR</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_ENLIGHTENMENT_UNDERGROUND_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_ENLIGHTENMENT_UNDERGROUND_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_INSTITUTE</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_INSTITUTE</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_PRE_WAR_RELIC_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_PRE_WAR_RELIC_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SOLE_SURVIVOR_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -71,15 +71,15 @@
 		<CivilizationType>F4_CIVILIZATION_RAILROAD</CivilizationType>
 		<LeaderType>F4_LEADER_SOLE_SURVIVOR</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_RAILROAD_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_RAILROAD</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_RAILROAD</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SOLE_SURVIVOR_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_SOLE_SURVIVOR</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_AXE_TO_GRIND_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_AXE_TO_GRIND_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_RAILROAD</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_RAILROAD</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_PRE_WAR_RELIC_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_PRE_WAR_RELIC_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SOLE_SURVIVOR_NEUTRAL</Portrait>
 		</Row>
 
@@ -88,15 +88,15 @@
 		<CivilizationType>F4_CIVILIZATION_MINUTE_MEN</CivilizationType>
 		<LeaderType>F4_LEADER_PRESTON_GARVEY</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_MINUTE_MEN_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_MINUTE_MEN</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_MINUTE_MEN</CivilizationIcon>
 		<LeaderName>LOC_LEADER_PRESTON_GARVEY_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_PRESTON_GARVEY</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_PRESTON_GARVEY</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_EPIC_QUESTS_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_EPIC_QUESTS_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_MINUTE_MEN</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_MINUTE_MEN</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_MINUTES_NOTICE_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_MINUTES_NOTICE_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_PRESTON_GARVEY</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_PRESTON_GARVEY</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_PRESTON_GARVEY_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -104,15 +104,15 @@
 		<CivilizationType>F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationType>
 		<LeaderType>F4_LEADER_ARTHUR_MAXSON</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_BROTHERHOOD_OF_STEEL_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationIcon>
 		<LeaderName>LOC_LEADER_ARTHUR_MAXSON_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_ARTHUR_MAXSON</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_ARTHUR_MAXSON</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_LIBERTAS_IMPERIO_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_LIBERTAS_IMPERIO_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_AD_VICTORIUM_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_AD_VICTORIUM_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_ARTHUR_MAXSON</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_ARTHUR_MAXSON</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_ARTHUR_MAXSON_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -120,15 +120,15 @@
 		<CivilizationType>F4_CIVILIZATION_INSTITUTE</CivilizationType>
 		<LeaderType>F4_LEADER_FATHER</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_INSTITUTE_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_INSTITUTE</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_INSTITUTE</CivilizationIcon>
 		<LeaderName>LOC_LEADER_FATHER_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_FATHER</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_FATHER</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_ENLIGHTENMENT_UNDERGROUND_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_ENLIGHTENMENT_UNDERGROUND_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_INSTITUTE</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_INSTITUTE</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_MANKIND_REDEFINED_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_MANKIND_REDEFINED_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_FATHER</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_FATHER</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_FATHER_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -136,15 +136,15 @@
 		<CivilizationType>F4_CIVILIZATION_RAILROAD</CivilizationType>
 		<LeaderType>F4_LEADER_DESDEMONA</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_RAILROAD_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_RAILROAD</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_RAILROAD</CivilizationIcon>
 		<LeaderName>LOC_LEADER_DESDEMONA_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_DESDEMONA</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_DESDEMONA</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_AXE_TO_GRIND_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_AXE_TO_GRIND_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_RAILROAD</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_RAILROAD</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_BEWARE_NICE_ONES_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_BEWARE_NICE_ONES_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_DESDEMONA</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_DESDEMONA</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_DESDEMONA_NEUTRAL</Portrait>
 		</Row>
 
@@ -153,15 +153,15 @@
 		<CivilizationType>F4_CIVILIZATION_CHILDREN_OF_ATOM</CivilizationType>
 		<LeaderType>F4_LEADER_MOTHER_ISOLDE</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_CHILDREN_OF_ATOM_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_CHILDREN_OF_ATOM</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_CHILDREN_OF_ATOM</CivilizationIcon>
 		<LeaderName>LOC_LEADER_MOTHER_ISOLDE_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_MOTHER_ISOLDE</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_MOTHER_ISOLDE</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_ATOMIC_HYMNS_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_ATOMIC_HYMNS_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_CHILDREN_OF_ATOM</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_CHILDREN_OF_ATOM</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_INFINITE_WORLDS_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_INFINITE_WORLDS_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_MOTHER_ISOLDE</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_MOTHER_ISOLDE</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_MOTHER_ISOLDE_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -169,15 +169,15 @@
 		<CivilizationType>F4_CIVILIZATION_GUNNERS</CivilizationType>
 		<LeaderType>F4_LEADER_CAPTAIN_WES</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_GUNNERS_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_GUNNERS</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_GUNNERS</CivilizationIcon>
 		<LeaderName>LOC_LEADER_CAPTAIN_WES_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_CAPTAIN_WES</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_CAPTAIN_WES</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_THE_GUNNER_SONG_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_THE_GUNNER_SONG_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_GUNNERS</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_GUNNERS</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_GET_SOME_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_GET_SOME_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_CAPTAIN_WES</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_CAPTAIN_WES</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_CAPTAIN_WES_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -185,15 +185,15 @@
 		<CivilizationType>F4_CIVILIZATION_FORGED</CivilizationType>
 		<LeaderType>F4_LEADER_SLAG</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_FORGED_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_FORGED</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_FORGED</CivilizationIcon>
 		<LeaderName>LOC_LEADER_SLAG_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_SLAG</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_SLAG</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_GREAT_FIERY_BOMBARD_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_GREAT_FIERY_BOMBARD_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_FORGED</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_FORGED</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_CRUCIBLE_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_CRUCIBLE_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_SLAG</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_SLAG</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SLAG_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -201,15 +201,15 @@
 		<CivilizationType>F4_CIVILIZATION_CARAVANERS</CivilizationType>
 		<LeaderType>F4_LEADER_KESSLER</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_CARAVANERS_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_CARAVANERS</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_CARAVANERS</CivilizationIcon>
 		<LeaderName>LOC_LEADER_KESSLER_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_KESSLER</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_KESSLER</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_ALL_ROADS_BUNKER_HILL_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_ALL_ROADS_BUNKER_HILL_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_CARAVANERS</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_CARAVANERS</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_FAVORABLE_CONTRACTS_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_FAVORABLE_CONTRACTS_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_KESSLER</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_KESSLER</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_KESSLER_NEUTRAL</Portrait>
 		</Row>
 
@@ -218,15 +218,15 @@
 		<CivilizationType>F4_CIVILIZATION_RUST_DEVILS</CivilizationType>
 		<LeaderType>F4_LEADER_IVEY</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_RUST_DEVILS_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_RUST_DEVILS</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_RUST_DEVILS</CivilizationIcon>
 		<LeaderName>LOC_LEADER_IVEY_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_IVEY</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_IVEY</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_RUSTY_FUSION_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_RUSTY_FUSION_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_RUST_DEVILS</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_RUST_DEVILS</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_IRON_FLOWERS_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_IRON_FLOWERS_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_IVEY</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_IVEY</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_IVEY_NEUTRAL</Portrait>
 		</Row>
 		<Row>
@@ -234,15 +234,15 @@
 		<CivilizationType>F4_CIVILIZATION_MECHANIST_ROBOTS</CivilizationType>
 		<LeaderType>F4_LEADER_THE_MECHANIST</LeaderType>
 		<CivilizationName>LOC_CIVILIZATION_MECHANIST_ROBOTS_NAME</CivilizationName>
-		<CivilizationIcon>ICON_CIVILIZATION_MECHANIST_ROBOTS</CivilizationIcon>
+		<CivilizationIcon>ICON_F4_CIVILIZATION_MECHANIST_ROBOTS</CivilizationIcon>
 		<LeaderName>LOC_LEADER_THE_MECHANIST_NAME</LeaderName>
-		<LeaderIcon>ICON_LEADER_THE_MECHANIST</LeaderIcon>
+		<LeaderIcon>ICON_F4_LEADER_THE_MECHANIST</LeaderIcon>
 		<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_FREE_IMPERIAL_SWARMS_NAME</CivilizationAbilityName>
 		<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_FREE_IMPERIAL_SWARMS_DESCRIPTION</CivilizationAbilityDescription>
-		<CivilizationAbilityIcon>ICON_CIVILIZATION_MECHANIST_ROBOTS</CivilizationAbilityIcon>
+		<CivilizationAbilityIcon>ICON_F4_CIVILIZATION_MECHANIST_ROBOTS</CivilizationAbilityIcon>
 		<LeaderAbilityName>LOC_TRAIT_LEADER_SWARM_INTELLIGENCE_NAME</LeaderAbilityName>
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_SWARM_INTELLIGENCE_DESCRIPTION</LeaderAbilityDescription>
-		<LeaderAbilityIcon>ICON_LEADER_THE_MECHANIST</LeaderAbilityIcon>
+		<LeaderAbilityIcon>ICON_F4_LEADER_THE_MECHANIST</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_THE_MECHANIST_NEUTRAL</Portrait>
 		</Row>
 		

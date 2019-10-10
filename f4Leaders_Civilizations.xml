@@ -102,7 +102,7 @@
 	</Civilizations>
 
 	<CivilizationLeaders>
-		<Row CivilizationType="F4_CIVILIZATION_FELINE" LeaderType="F4_LEADER_JASPER_KITTY" CapitalName="LOC_CIVLIZATION_FELINE_CITY_1" />
+		<Row CivilizationType="CIVILIZATION_FELINE" LeaderType="LEADER_JASPER_KITTY" CapitalName="LOC_CIVLIZATION_FELINE_CITY_1" />
 
 		<Row CivilizationType="F4_CIVILIZATION_MINUTE_MEN" LeaderType="F4_LEADER_SOLE_SURVIVOR" CapitalName="LOC_CIVLIZATION_MINUTE_MEN_CITY_1" />
 		<Row CivilizationType="F4_CIVILIZATION_MINUTE_MEN" LeaderType="F4_LEADER_PRESTON_GARVEY" CapitalName="LOC_CIVLIZATION_MINUTE_MEN_CITY_1" />

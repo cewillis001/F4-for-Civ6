@@ -87,7 +87,7 @@
 	</Leaders>
 
 	<LeaderQuotes>
-		<Row LeaderType="F4_LEADER_JASPER_KITTY" Quote="LOC_LEADER_JASPER_KITTY_QUOTE"/>
+		<Row LeaderType="LEADER_JASPER_KITTY" Quote="LOC_LEADER_JASPER_KITTY_QUOTE"/>
 		
 		<Row LeaderType="F4_LEADER_SOLE_SURVIVOR" Quote="LOC_LEADER_SOLE_SURVIVOR_QUOTE"/>
 
