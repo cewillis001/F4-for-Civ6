@@ -16,6 +16,7 @@
 			<LeaderAbilityDescription>LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION</LeaderAbilityDescription>
 			<LeaderAbilityIcon>ICON_LEADER_JASPER_KITTY</LeaderAbilityIcon>
 			<Portrait>LEADER_JASPER_KITTY_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 
 		<Row>
@@ -33,6 +34,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_PRE_WAR_RELIC_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SOLE_SURVIVOR_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -49,6 +51,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_PRE_WAR_RELIC_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SOLE_SURVIVOR_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -65,6 +68,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_PRE_WAR_RELIC_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SOLE_SURVIVOR_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -81,6 +85,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_PRE_WAR_RELIC_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_SOLE_SURVIVOR</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SOLE_SURVIVOR_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 
 		<Row>
@@ -98,6 +103,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_MINUTES_NOTICE_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_PRESTON_GARVEY</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_PRESTON_GARVEY_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -114,6 +120,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_AD_VICTORIUM_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_ARTHUR_MAXSON</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_ARTHUR_MAXSON_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -130,6 +137,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_MANKIND_REDEFINED_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_FATHER</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_FATHER_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -146,6 +154,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_BEWARE_NICE_ONES_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_DESDEMONA</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_DESDEMONA_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 
 		<Row>
@@ -163,6 +172,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_INFINITE_WORLDS_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_MOTHER_ISOLDE</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_MOTHER_ISOLDE_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -179,6 +189,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_GET_SOME_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_CAPTAIN_WES</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_CAPTAIN_WES_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -195,6 +206,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_CRUCIBLE_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_SLAG</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_SLAG_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -211,6 +223,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_FAVORABLE_CONTRACTS_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_KESSLER</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_KESSLER_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 
 		<Row>
@@ -228,6 +241,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_IRON_FLOWERS_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_IVEY</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_IVEY_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		<Row>
 		<Domain>Players:Expansion2_Players</Domain>
@@ -244,6 +258,7 @@
 		<LeaderAbilityDescription>LOC_TRAIT_LEADER_SWARM_INTELLIGENCE_DESCRIPTION</LeaderAbilityDescription>
 		<LeaderAbilityIcon>ICON_F4_LEADER_THE_MECHANIST</LeaderAbilityIcon>
 		<Portrait>F4_LEADER_THE_MECHANIST_NEUTRAL</Portrait>
+			<HumanPlayable>1</HumanPlayable>
 		</Row>
 		
 	</Players>
