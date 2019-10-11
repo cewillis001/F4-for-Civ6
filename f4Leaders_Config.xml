@@ -265,7 +265,7 @@
 
 	<PlayerItems>
 		<Row>
-			<Domain>StandardPlayers</Domain>
+			<Domain>Players:Expansion2_Players</Domain>
 			<CivilizationType>CIVILIZATION_FELINE</CivilizationType>
 			<LeaderType>LEADER_JASPER_KITTY</LeaderType>
 			<Type>BUILDING_LITTER_BOX</Type>
