@@ -43,33 +43,33 @@
 		</Row>
 
 		<Row Tag="LOC_F4_CIVILIZATION_MINUTE_MEN_DESCRIPTION" Language="en_US">
-			<Text>Alliance of civilian militias</Text>
+			<Text>The Commonwealth Minutemen</Text>
 		</Row>
 		<Row Tag="LOC_F4_CIVILIZATION_BROTHERHOOD_OF_STEEL_DESCRIPTION" Language="en_US">
-			<Text>Empire of the Brotherhood of Steel</Text>
+			<Text>The Brotherhood of Steel</Text>
 		</Row>
 		<Row Tag="LOC_F4_CIVILIZATION_INSTITUTE_DESCRIPTION" Language="en_US">
-			<Text>Institute Territories</Text>
+			<Text>The Institute</Text>
 		</Row>
 		<Row Tag="LOC_F4_CIVILIZATION_RAILROAD_DESCRIPTION" Language="en_US">
-			<Text>Railroad Network</Text>
+			<Text>The Railroad</Text>
 		</Row>
 
 		<Row Tag="LOC_F4_CIVILIZATION_CHILDREN_OF_ATOM_DESCRIPTION" Language="en_US">
 			<Text>The Church of the Children of Atom</Text>
 		</Row>
 		<Row Tag="LOC_F4_CIVILIZATION_FORGED_DESCRIPTION" Language="en_US">
-			<Text>Forged Raider Gang</Text>
+			<Text>The Forged Raider Gang</Text>
 		</Row>
 		<Row Tag="LOC_F4_CIVILIZATION_GUNNERS_DESCRIPTION" Language="en_US">
-			<Text>Gunner Chain of Command</Text>
+			<Text>The Gunners</Text>
 		</Row>
 		<Row Tag="LOC_F4_CIVILIZATION_CARAVANERS_DESCRIPTION" Language="en_US">
 			<Text>Caravaners of the Commonwealth</Text>
 		</Row>
 
 		<Row Tag="LOC_F4_CIVILIZATION_RUST_DEVILS_DESCRIPTION" Language="en_US">
-			<Text>Rust Devils Raider Gang</Text>
+			<Text>The Rust Devils Raider Gang</Text>
 		</Row>
 		<Row Tag="LOC_F4_CIVILIZATION_MECHANIST_ROBOTS_DESCRIPTION" Language="en_US">
 			<Text>Robotic Allies of The Mechanist</Text>
@@ -217,7 +217,7 @@
 			<Text>Receive boosts upon city conquest: a [ICON_TechBoosted] Eureka for each Encampment or Campus in the conquered city and an [ICON_CivicBoosted] Inspiration for each Holy Site or Theater Square.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FREE_IMPERIAL_SWARMS_NAME" Language="en_US">
-			<Text>Free Imperial Swarms</Text>
+			<Text>Robotic Manufacturing</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FREE_IMPERIAL_SWARMS_DESCRIPTION" Language="en_US">
 			<Text>Each city can build one more district than usual (exceeding the normal limit based on [ICON_Citizen] Population).</Text>
@@ -295,7 +295,7 @@
 			<Text>[ICON_Governor] Governors established in a city provide +3% [ICON_Culture] Culture and [ICON_Science] Science for each Promotion they have earned, including their first.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SWARM_INTELLIGENCE_NAME" Language="en_US">
-			<Text>Swarm Intelligence</Text>
+			<Text>Economies of Scale</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SWARM_INTELLIGENCE_DESCRIPTION" Language="en_US">
 			<Text>May form Corps (Mercenaries Civic) and Armies (Nationalism Civic) earlier. An additional +5 [ICON_STRENGTH] Base Combat Strength to both Corps and Armies.</Text>

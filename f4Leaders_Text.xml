@@ -761,41 +761,112 @@
       <Text>Let me rub my face on all of your stuff so that it will be mine.</Text>
     </Row>
 
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_SOLE_SURVIVOR_ANY" Language="en_US">
+			<Text>Make it quick.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_SOLE_SURVIVOR_ANY" Language="en_US">
+			<Text>We're always looking for more people, if you want to take a look around.</Text>
+		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_SOLE_SURVIVOR_ANY" Language="en_US">
 			<Text>Yeah, sure.</Text>
 		</Row>
 
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_PRESTON_GARVEY_ANY" Language="en_US">
+			<Text>Hey there, friend. Preston Garvey, Commonwealth Minutemen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_PRESTON_GARVEY_ANY" Language="en_US">
+			<Text>Wanna see the settlement? We could always use another pair of hands.</Text>
+		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_PRESTON_GARVEY_ANY" Language="en_US">
 			<Text>I agree.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_ARTHUR_MAXSON_ANY" Language="en_US">
+			<Text>Do not interfere. Our intentions are peaceful. We are the Brotherhood of Steel.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_ARTHUR_MAXSON_ANY" Language="en_US">
+			<Text>Would you like to visit our base?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_ARTHUR_MAXSON_ANY" Language="en_US">
 			<Text>Acceptable.</Text>
 		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_FATHER_ANY" Language="en_US">
+			<Text>Standing here, I'm reminded of how fortunate I am that I was spared a life in this wasteland.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_FATHER_ANY" Language="en_US">
+			<Text>We are willing to offer you a chance to see the Institute first-hand.</Text>
+		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_FATHER_ANY" Language="en_US">
 			<Text>Yes, good.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_DESDEMONA_ANY" Language="en_US">
+			<Text>Ah, I've heard about you. What brings you to our turf?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_DESDEMONA_ANY" Language="en_US">
+			<Text>We have a guest area for outsiders, if you need a rest.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_DESDEMONA_ANY" Language="en_US">
 			<Text>I can't say no to that.</Text>
 		</Row>
 
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_MOTHER_ISOLDE_ANY" Language="en_US">
+			<Text>Greetings from the most professional mercenary company in the Commonwealth.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_MOTHER_ISOLDE_ANY" Language="en_US">
+			<Text>Would you like a tour of our fortifications?</Text>
+		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_MOTHER_ISOLDE_ANY" Language="en_US">
 			<Text>You are kind to offer.</Text>
 		</Row>
+		
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_SLAG_ANY" Language="en_US">
 			<Text>Ha! I like your style.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Greetings from the most professional mercenary company in the Commonwealth.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Would you like a tour of our fortifications?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
 			<Text>Affirmative.</Text>
 		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Greetings, from the only professional mercenary company in the Commonwealth.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Would you like a tour of our fortifications?</Text>
+		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_KESSLER_ANY" Language="en_US">
 			<Text>All right, thanks.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Greetings from the most professional mercenary company in the Commonwealth.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Would you like a tour of our fortifications?</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_IVEY_ANY" Language="en_US">
 			<Text>Works for me.</Text>
 		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Greetings from the most professional mercenary company in the Commonwealth.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Would you like a tour of our fortifications?</Text>
+		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_F4_LEADER_THE_MECHANIST_ANY" Language="en_US">
 			<Text>Thank you, citizen!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Greetings from the most professional mercenary company in the Commonwealth.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_F4_LEADER_CAPTAIN_WES_ANY" Language="en_US">
+			<Text>Would you like a tour of our fortifications?</Text>
 		</Row>
 	</LocalizedText>
 </GameData>
